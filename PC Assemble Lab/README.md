@@ -1,1 +1,2 @@
-
+# 💡Reflection
+By joining the PC assembly lab, I gained real hands-on experience in recognizing computer hardware components such as the hard disk, power supply, RAM, and others. Moreover, I was given the opportunity to assemble the computer hardware back into its original position, which was a precious experience for me as I do not have a PC at home to practice on. Although I faced challenges such as placing some components in the wrong positions, the guidance from the instructor and the help from my friends taught me patiently, and I feel very grateful to them. Overall, the PC assembly lab was a very valuable experience as it improved my understanding of computer hardware, which will be useful in my future.
